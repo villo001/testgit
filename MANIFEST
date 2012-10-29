@@ -2,6 +2,7 @@ Makefile.PL
 README
 CHANGES
 MANIFEST
+QQQ
 lib/SVN/Simple/Edit.pm
 lib/SVN/Simple/Editor.pm
 t/1edit.t
